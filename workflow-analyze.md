@@ -5,6 +5,9 @@ Tento dokument popisuje rozšírený proces, doplnený o:
 - **Epic Gate** – povinné zastavenie a testovanie po každom epiku,
 - **Automatické logovanie a pamäť** – systém si vždy pamätá aktuálny stav projektu.
 
+- Good practice je rozdelenie taskov na malé epiky a stories, pre lepšiu viditeľnosť kódu a pracovanie s úpravami / testom.
+- Implemetovať po dokončení sekcie commit ? -> user zada co v danej sekcii pripravil s pomocou agenta a potvrdi pokracovanie (pripadne agent zhrnie strucne do commitu) a automaticky na pozadi pushe do gitu
+
 ---
 
 ## 0. Analyst (pred PRD)
